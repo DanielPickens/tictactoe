@@ -5,7 +5,6 @@ public class TicTac {
 	private int[][] a = new int[3][3];
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Welcome to Daniel's TicTacToe. The board looks like this");
 		TicTac a = new TicTac();
 		a.print();
